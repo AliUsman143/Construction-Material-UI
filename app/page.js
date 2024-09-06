@@ -9,10 +9,12 @@ import MainPage3 from './components/mainpage3'
 const Home = () => {
   return (
     <div>
+
       {/* <Hero/> */}
       {/* <Header /> */}
       {/* <MainPage /> */}
       <MainPage3/>
+      <p>Ali Usman</p>
       {/* <Index /> */}
       {/* <Practice /> */}
     </div>
